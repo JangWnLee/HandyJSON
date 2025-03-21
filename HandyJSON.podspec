@@ -22,5 +22,5 @@ Pod::Spec.new do |s|
         'SWIFT_VERSION' => '5.0',
         # 防止 Xcode15.3 Archive 报错
         'SWIFT_COMPILATION_MODE' => 'incremental' 
-      }
+    }
 end
